@@ -16,7 +16,7 @@ This folder showcases the visual output of the project and provides a downloadab
 
 Online Access:
 
-🔗 View the Interactive Power BI Dashboard (requires login)
+🔗 View the Interactive Power BI Dashboard (https://app.powerbi.com/groups/me/reports/a7d261da-969b-4e2f-b359-54bb2dffa445/6b8a5f5d287810da5e12?experience=power-bi) (requires login)
 
 Note: This link points to a Power BI workspace version and may require organizational access. For public viewing, consider publishing via Power BI “Publish to Web.”
 
